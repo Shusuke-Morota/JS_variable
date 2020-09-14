@@ -8,3 +8,5 @@
 // console.log(Boolean(a));
 
 // これらはコンソールでfalseで出力される。
+// これらはfalsyな値と呼ばれる。
+
